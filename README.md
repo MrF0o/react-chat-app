@@ -2,6 +2,8 @@
 
 A simple, web based real-time chat app made with react and socket.io
 
+[screenshot](https://i.postimg.cc/ZmcZLcHr/Screenshot-2021-06-29-134107.png)
+
 ## how to run
 
 Use npm to install the dependencies of both the server and client
