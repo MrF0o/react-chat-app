@@ -1,0 +1,30 @@
+
+.message {
+    display: flex;
+    align-items: center;
+}
+
+.greyMessage, .blueMessage {
+    width: 60%;
+    margin: 5px;
+    min-height: 35px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.greyMessage {
+    background: #D9D9D9;
+}
+
+.blueMessage {
+    background: #00A3FF;
+    margin-left: auto;
+}
+
+.owner {
+    margin: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #bdbdbd;
+}
