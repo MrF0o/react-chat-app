@@ -17,5 +17,7 @@ then run the server and the client
 npm start
 ```
 
+## warning ``not responsive YET``
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
